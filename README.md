@@ -1,27 +1,35 @@
-# Frontend
+# Posts Book for tracking and displaying posts by users
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This is the first version of the social posting application created using MongoDB, ExpressJS, AngularJS, NodeJS ( MEAN )
 
-## Development server
+## Technologies
+- <a href="https://devcenter.heroku.com/articles/heroku-cli">Heroku CLI</a> <br />
+- <a href="https://mlab.com/home">mLab</a> <br />
+- <a href="https://angular.io/">AngularJs</a> <br />
+- <a href="https://expressjs.com/">ExpressJS</a> <br />
+- <a href="https://nodejs.org/en/" > NodeJS </a> <br />
+- <a href="https://jwt.io/" > JWT </a> <br />
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Screenshots of app
+<img src="./ss1.png?" width="250"> <img src="./ss2.png?" width="250"> <img src="./ss3.png?" width="250">
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Usage
+### Install npm
+- Install [npm](https://www.npmjs.com/get-npm) from here
+### Clone this repository
+- Next download this repository on your `local machine` and navigate to the root of this repository
+```
+git clone PostsBook.git
+```
+### Install Node
+- Next install node through CMD
+```
+npm install node
+```
+### Run the application
+- Next run the application using CMD
+```
+ng serve
+```
+### Enjoy
+- Your application will be running on `localhost:4200`
