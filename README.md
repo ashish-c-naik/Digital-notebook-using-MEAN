@@ -12,10 +12,10 @@ This is the first version of the social posting application created using MongoD
 
 ## Screenshots of app
 <img src="./ss1.png?">
-<img src="./ss2.png?" width="250">
-<img src="./ss3.png?" width="250">
-<img src="./ss4.png?" width="250">
-<img src="./ss5.png?" width="250">
+<img src="./ss2.png?">
+<img src="./ss3.png?">
+<img src="./ss4.png?">
+<img src="./ss5.png?">
 
 ## Usage
 ### Install npm
