@@ -11,7 +11,11 @@ This is the first version of the social posting application created using MongoD
 - <a href="https://jwt.io/" > JWT </a> <br />
 
 ## Screenshots of app
-<img src="./ss1.png?" width="250"> <img src="./ss2.png?" width="250"> <img src="./ss3.png?" width="250">
+<img src="./ss1.png?">
+<img src="./ss2.png?" width="250">
+<img src="./ss3.png?" width="250">
+<img src="./ss4.png?" width="250">
+<img src="./ss5.png?" width="250">
 
 ## Usage
 ### Install npm
