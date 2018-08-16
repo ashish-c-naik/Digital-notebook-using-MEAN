@@ -1,0 +1,21 @@
+import { Component } from '@angular/core';
+import { AuthService } from './auth.service';
+
+@Component({
+  selector: 'app-register',
+  templateUrl: './register.component.html'
+})
+export class RegisterComponent {
+    registerData = {
+        email: '',
+        name: '',
+        description: '',
+        password: ''
+    };
+    constructor ( public authService: AuthService) {}
+
+    post() {
+        console.log(this.registerData);
+        this.authService.registerUser(this.registerData);
+    }
+}
