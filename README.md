@@ -1,6 +1,12 @@
 # Posts Book for tracking and displaying posts by users
 
-This is the first version of the social posting application created using MongoDB, ExpressJS, AngularJS, NodeJS ( MEAN )
+Social posting application created using MongoDB, ExpressJS, AngularJS, NodeJS ( MEAN ).
+The MongoDB is hosted on mLab.
+For security of the application I have used JWT authentication along with password hashing. 
+Owasp ZAP was used to verify the security enforcement in the application. 
+The backend code with NodeJS and ExpressJS is hosted using the Heroku CLI.
+
+## [You could view this application](http://socialbook.s3-website.us-east-2.amazonaws.com/)
 
 ## Technologies
 - <a href="https://devcenter.heroku.com/articles/heroku-cli">Heroku CLI</a> <br />
@@ -9,6 +15,7 @@ This is the first version of the social posting application created using MongoD
 - <a href="https://expressjs.com/">ExpressJS</a> <br />
 - <a href="https://nodejs.org/en/" > NodeJS </a> <br />
 - <a href="https://jwt.io/" > JWT </a> <br />
+- <a href="https://en.wikipedia.org/wiki/OWASP_ZAP" > OWASP ZAP </a> <br />
 
 ## Screenshots of app
 <img src="./ss1.png?">
